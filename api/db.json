@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "House for rent",
+      "description": "Fork from https://javascript.info/recursion",
+      "id": 1
+    },
+    {
+      "title": "welcome to my worl",
+      "description": "People that inspire me in webdev",
+      "id": 2
+    },
+    {
+      "title": "hi test",
+      "description": "People that inspire me in webdev",
+      "id": 3
+    },
+    {
+      "title": "Duplex at Banana",
+      "description": "refactoring create stream",
+      "id": 4
+    },
+    {
+      "title": "item 5",
+      "description": "this is from item 5",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "item 5",
+      "description": "this is from item 5",
+      "userId": null,
+      "id": 6
+    }
+  ]
+}
